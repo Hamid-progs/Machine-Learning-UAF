@@ -56,3 +56,4 @@ If you are a UAF student or friend, feel free to use and share it for study purp
 ---
 
 ✨ Thank you for supporting open learning — together we grow stronger!
+<p><b>For Quries Contact Me via <a href="https://www.linkedin.com/in/muhammad-hamid-raza-082aa62ba">Linkedin</a></b></p>
