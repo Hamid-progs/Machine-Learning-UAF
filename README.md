@@ -1,4 +1,4 @@
-"UAF-Sir-Shoab-ML"
+# "UAF-Sir-Shoab-ML"
 
 > **Personal open repository** for Machine Learning notes and assignments prepared by me, based on **Sir Shoab’s lectures** at the University of Agriculture, Faisalabad (UAF).
 
