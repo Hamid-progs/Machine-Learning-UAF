@@ -29,7 +29,7 @@ The purpose of this repo is:
 
 - Open `lectures/` to review my written notes and any related study slides.
 - Explore `assignments/` for practice problems and my solutions.
-- 
+- Assets `images/` for the assets used in assignments
 ---
 
 ## 🙌 Contributing
