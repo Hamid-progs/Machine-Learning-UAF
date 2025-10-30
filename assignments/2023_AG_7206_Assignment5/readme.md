@@ -17,7 +17,7 @@ This folder contains the submission for **Assignment 5**.
   This causes small differences between the code and handwritten results.  
 
 ## ✅ Summary
-This submission demonstrates the correct implementation and manual understanding of Gaussian Naive Bayes using Python.  
+This submission demonstrates the correct implementation and manual understanding of Gaussian Naive Bayes, Naive Bayes and Linear Regression using Python.  
 Both code and handwritten work are included for clarity and comparison.  
 
 **Thank you!**
