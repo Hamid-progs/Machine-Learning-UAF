@@ -13,7 +13,8 @@ This folder contains the submission for **Assignment 5**.
 - The Python files contain **absolute and correct results**, directly computed using Python.  
 - The **handwritten file** may have minor differences due to rounding (two decimal point approximations).  
 - The code computes results based on the **highest probability** — it manually checks and compares all probabilities.  
-- In the handwritten solution, the probability of `M` was calculated directly, and `B` was obtained as `B = 1 - M`.  
+- In the handwritten solution, the probability of `M` was calculated directly, and `B` was obtained as `B = 1 - M`.
+- In the hand written the probablites are not normalized but in the code the results are normalized.
   This causes small differences between the code and handwritten results.  
 
 ## ✅ Summary
