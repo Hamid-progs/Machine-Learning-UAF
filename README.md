@@ -27,7 +27,8 @@ The purpose of this repo is:
 
 ## ✅ How to use
 
-- Open `lectures/` to review my written notes and any related study slides.
+- Open `Programing-Labs/` to review my python program notes.
+- Open `PDF-Leactures/` to review any study related slides.
 - Explore `assignments/` for practice problems and my solutions.
 - Assets `images/` for the assets used in assignments
 ---
