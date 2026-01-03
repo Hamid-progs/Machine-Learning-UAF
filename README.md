@@ -4,6 +4,9 @@
 
 ---
 
+<img src='./images/result.png'>
+
+---
 ## 📚 Project Overview
 
 This repository contains **my self-prepared notes, assignments, and practice materials** for the Machine Learning course taught by Sir Shoab at UAF.  
