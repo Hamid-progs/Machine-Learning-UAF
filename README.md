@@ -4,7 +4,7 @@
 
 ---
 
-<img src='./images/result.png'>
+<img src='./images/r1.png'>
 
 ---
 ## 📚 Project Overview
