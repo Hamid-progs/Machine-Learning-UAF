@@ -11,6 +11,11 @@
 <img style="border: 1px solid black;"  src='./images/r2.png'>
 
 ---
+
+<img src='./images/r3.png'>
+
+---
+
 ## 📚 Project Overview
 
 This repository contains **my self-prepared notes, assignments, and practice materials** for the Machine Learning course taught by Sir Shoab at UAF.  
